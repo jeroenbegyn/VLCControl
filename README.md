@@ -12,7 +12,7 @@ track, jumping in time, toggling fullscreen and changing volume.
 This pretty much covers everything the AppleScript hooks of VLC
 allow.
 
-Tested to work on OS X Lion and Spotify 2.0.5.
+Tested to work on OS X Lion and VLC 2.0.5.
 No guarantees.
 
 You may use, adapt, modify etc. any way you want.
